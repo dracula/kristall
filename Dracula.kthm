@@ -10,7 +10,7 @@ version=1
 
 [Blockquote]
 color=#f8f8f2
-font="Cantarell,12,-1,5,50,1,0,0,0,0"
+font="Source Code Pro,12,-1,5,50,1,0,0,0,0,Italic"
 
 [Formatting]
 centre_h1=false
@@ -28,15 +28,15 @@ text_width_enabled=true
 
 [H1]
 color=#f8f8f2
-font="Cantarell,22,-1,5,75,0,0,0,0,0"
+font="Source Code Pro,22,-1,5,75,0,0,0,0,0,Bold"
 
 [H2]
 color=#f8f8f2
-font="Cantarell,17,-1,5,75,0,0,0,0,0"
+font="Source Code Pro,17,-1,5,75,0,0,0,0,0,Bold"
 
 [H3]
 color=#f8f8f2
-font="Cantarell,14,-1,5,75,0,0,0,0,0"
+font="Source Code Pro,14,-1,5,75,0,0,0,0,0,Bold"
 
 [Link]
 color_cross_scheme=#8be9fd
@@ -47,8 +47,8 @@ internal_prefix="\x2192 "
 
 [Preformatted]
 color=#bd93f9
-font="DejaVu Sans Mono,12,-1,5,50,0,0,0,0,0"
+font="Source Code Pro,12,-1,5,50,0,0,0,0,0,Regular"
 
 [Standard]
 color=#f8f8f2
-font="Cantarell,12,-1,5,50,0,0,0,0,0"
+font="Source Code Pro,12,-1,5,50,0,0,0,0,0,Regular"

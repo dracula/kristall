@@ -10,7 +10,7 @@ All instructions can be found at [draculatheme.com/kristall](https://draculathem
 
 ## Team
 
-This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/foobar/graphs/contributors).
+This theme is maintained by the following person and a bunch of [awesome contributors](https://github.com/dracula/kristall/graphs/contributors).
 
 | [![X-Industries](https://github.com/x-industries-uk.png?size=100)](https://github.com/x-industries-uk) |
 | ------------------------------------------------------------------------------------------------------ |

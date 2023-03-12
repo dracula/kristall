@@ -1,0 +1,54 @@
+[General]
+ansi_colors=black, darkred, darkgreen, darkgoldenrod, darkblue, darkmagenta, darkcyan, lightgray, gray, red, green, goldenrod, lightblue, magenta, cyan, white
+background_color=#282a36
+blockquote_color=#44475a
+margins_h=30
+margins_v=55
+name=Dracula
+theme=0
+version=1
+
+[Blockquote]
+color=#f8f8f2
+font="Cantarell,12,-1,5,50,1,0,0,0,0"
+
+[Formatting]
+centre_h1=false
+indent_bq=1
+indent_h=0
+indent_l=2
+indent_p=1
+indent_size=15
+justify_text=true
+line_height_h=5
+line_height_p=5
+list_symbol=-1
+text_width=900
+text_width_enabled=true
+
+[H1]
+color=#f8f8f2
+font="Cantarell,22,-1,5,75,0,0,0,0,0"
+
+[H2]
+color=#f8f8f2
+font="Cantarell,17,-1,5,75,0,0,0,0,0"
+
+[H3]
+color=#f8f8f2
+font="Cantarell,14,-1,5,75,0,0,0,0,0"
+
+[Link]
+color_cross_scheme=#8be9fd
+color_external=#bd93f9
+color_internal=#bd93f9
+external_prefix="\x21d2 "
+internal_prefix="\x2192 "
+
+[Preformatted]
+color=#bd93f9
+font="DejaVu Sans Mono,12,-1,5,50,0,0,0,0,0"
+
+[Standard]
+color=#f8f8f2
+font="Cantarell,12,-1,5,50,0,0,0,0,0"

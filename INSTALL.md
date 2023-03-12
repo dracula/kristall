@@ -12,9 +12,10 @@ Download using the [GitHub .zip download](https://github.com/dracula/kristall/ar
 
 #### Activating theme
 
-1. Open Kristall
-2. Go to File > Settings
-3. Go to Style
-4. Click the import button at the bottom of the window
-5. Select "Dracula.kthm"
-6. Done!
+1. **Recommended:** Install the "Source Code Pro" font. This is packaged for most Linux distributions and BSDs, but can also be found [here](https://github.com/adobe-fonts/source-code-pro).
+2. Open Kristall
+3. Go to File > Settings
+4. Go to Style
+5. Click the import button at the bottom of the window
+6. Select "Dracula.kthm" from the folder you just downloaded
+7. Done!

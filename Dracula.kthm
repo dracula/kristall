@@ -9,8 +9,8 @@ theme=0
 version=1
 
 [Blockquote]
-color=#f8f8f2
-font="Source Code Pro,12,-1,5,50,1,0,0,0,0,Italic"
+color=#f1fa8c
+font="JetBrainsMono Nerd Font,10,-1,5,50,0,0,0,0,0,Regular"
 
 [Formatting]
 centre_h1=false
@@ -27,28 +27,28 @@ text_width=900
 text_width_enabled=true
 
 [H1]
-color=#f8f8f2
-font="Source Code Pro,22,-1,5,75,0,0,0,0,0,Bold"
+color=#bd93f9
+font="JetBrainsMono Nerd Font,20,-1,5,50,0,0,0,0,0,Regular"
 
 [H2]
-color=#f8f8f2
-font="Source Code Pro,17,-1,5,75,0,0,0,0,0,Bold"
+color=#bd93f9
+font="JetBrainsMono Nerd Font,16,-1,5,50,0,0,0,0,0,Regular"
 
 [H3]
-color=#f8f8f2
-font="Source Code Pro,14,-1,5,75,0,0,0,0,0,Bold"
+color=#bd93f9
+font="JetBrainsMono Nerd Font,14,-1,5,75,0,0,0,0,0,Regular"
 
 [Link]
 color_cross_scheme=#8be9fd
-color_external=#bd93f9
-color_internal=#bd93f9
+color_external=#ff5555
+color_internal=#ff79c6
 external_prefix="\x21d2 "
 internal_prefix="\x2192 "
 
 [Preformatted]
-color=#bd93f9
-font="Source Code Pro,12,-1,5,50,0,0,0,0,0,Regular"
+color=#50fa7b
+font="JetBrainsMono Nerd Font,10,-1,5,50,0,0,0,0,0,Regular"
 
 [Standard]
 color=#f8f8f2
-font="Source Code Pro,12,-1,5,50,0,0,0,0,0,Regular"
+font="JetBrainsMono Nerd Font,10,-1,5,50,0,0,0,0,0,Regular"

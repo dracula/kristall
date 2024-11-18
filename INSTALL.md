@@ -12,7 +12,7 @@ Download using the [GitHub .zip download](https://github.com/dracula/kristall/ar
 
 #### Activating theme
 
-1. **Recommended:** Install the "Source Code Pro" font. This is packaged for most Linux distributions and BSDs, but can also be found [here](https://github.com/adobe-fonts/source-code-pro).
+1. **Recommended:** Install the "JetBrains Mono" font. This is packaged for most Linux distributions and BSDs, but can also be found [here](https://www.jetbrains.com/lp/mono/).
 2. Open Kristall
 3. Go to File > Settings
 4. Go to Style
